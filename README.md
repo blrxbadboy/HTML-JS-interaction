@@ -45,8 +45,9 @@ var cities = ['San Francisco', 'Cairo', 'Tokyo', 'Nairobi'];
 ```
 
 ## 6 - Changer l’image au clic
-Lorsque l’image est cliquée :
+a - Lorsque l’image est cliquée :
 Changer son src et alterner entre deux images
+b - ajouter auto slide après 3secs utiliser setinterval
 
 ## 7 - Créer un mini formulaire
 
